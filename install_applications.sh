@@ -20,6 +20,7 @@ brew cask install sublime-text
 brew cask install intellij-idea-ce
 brew cask install spotify
 brew cask install sizeup
+brew cask install postman
 
 # clear the homebrew cache of unused formulae
 brew cleanup -s
