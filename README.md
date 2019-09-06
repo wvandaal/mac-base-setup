@@ -17,6 +17,7 @@ This will download Homebrew, install XCode CLI tools, and install the following 
 - Intellij
 - Sublime Text 3
 - iTerm2
+- [Tree](https://linux.die.net/man/1/tree)
 - SizeUp
 - Postman
 - Zsh
@@ -31,7 +32,7 @@ engine = file_system
 path = OneDrive - Northwestern Mutual
 ```
 
-Save the file and then run `mackup restore` from the command line
+Save the file and then run `mackup restore` from the command line. For more information, read the [Mackup Docs](https://github.com/lra/mackup).
 
 ## Step 2b: Set Up Preferences (Zsh/Vim) without Mackup
 Without Mackup, the best you can do is clone down your dotfiles for Zsh and Vim. To keep this light and allow for customization, it's best to simply curl these files from this repo and store them locally, rather than keeping them in version control and symlinking them. Similar to step 1, run the following to copy the two dotfiles into your home directory.
