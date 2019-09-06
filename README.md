@@ -18,6 +18,7 @@ This will download Homebrew, install XCode CLI tools, and install the following 
 - Sublime Text 3
 - iTerm2
 - SizeUp
+- Postman
 - Zsh
   - Antigen plugin manager
 
