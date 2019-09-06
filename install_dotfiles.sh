@@ -2,7 +2,7 @@
 
 # Go to ~ directory and clear
 cd
-cl
+clear
 
 # Download .zshrc if it doesn't exist
 if [ ! -f .zshrc ]; then
