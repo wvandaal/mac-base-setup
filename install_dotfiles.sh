@@ -19,5 +19,5 @@ if [ ! -f .vimrc ]; then
   echo "Downloading vim config..."
   curl -O https://raw.githubusercontent.com/wvandaal/mac-base-setup/master/.vimrc
 else
-  echp ".vimrc already exists"
+  echo ".vimrc already exists"
 fi
