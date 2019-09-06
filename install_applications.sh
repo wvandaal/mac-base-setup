@@ -11,6 +11,7 @@ xcode-select --install
 # install cli tools
 brew install zsh
 brew install antigen
+brew install tree
 
 # install apps
 brew cask install iterm2
