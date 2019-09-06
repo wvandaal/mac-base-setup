@@ -21,10 +21,10 @@ Plug 'ervandew/supertab'              " Allow for tab completion in insert mode
 Plug 'terryma/vim-multiple-cursors'   " multiple cursors like those in Sublime Text
 
 " Sublime text snippets
-Plugin 'MarcWeber/vim-addon-mw-utils'
-Plugin 'tomtom/tlib_vim'
-Plugin 'garbas/vim-snipmate'
-Plugin 'honza/vim-snippets'
+Plug 'MarcWeber/vim-addon-mw-utils'
+Plug 'tomtom/tlib_vim'
+Plug 'garbas/vim-snipmate'
+Plug 'honza/vim-snippets'
 
 " finish installing plugins
 call plug#end()
