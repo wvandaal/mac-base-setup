@@ -1,4 +1,4 @@
-# Setting Up A Clean Dev Environment on a New Machine (OSX)
+# Setting Up A Clean Dev Environment on a New Mac
 
 Quick and clean Developer Environment setup
 
