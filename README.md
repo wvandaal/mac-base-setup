@@ -17,11 +17,17 @@ This will download Homebrew, install XCode CLI tools, and install the following 
 - Intellij
 - Sublime Text 3
 - iTerm2
-- [Tree](https://linux.die.net/man/1/tree)
 - SizeUp
 - Postman
+
+As well as the following CLI tools, dev dependencies, and build tools
+- [Tree](https://linux.die.net/man/1/tree)
 - Zsh
   - Antigen plugin manager
+- Maven
+- Java 8
+- Scala
+- Sbt
 
 ## Step 2a: Set Up Preferences with Mackup
 Assuming you have Mackup up and running on a cloud storage drive (OneDrive for Northwestern Mutual), simply create a `.mackup.cfg` file in your `~/` directory and point it to the corresponding drive in your file system:
