@@ -29,7 +29,7 @@ source /usr/local/share/antigen/antigen.zsh
 
 # load oh-my-zsh bundles
 antigen use oh-my-zsh
-antigen theme wvandaal/steeef-theme steeef # set the prompt theme
+antigen theme steeef # set the prompt theme
 
 # keep plugins in order to avoid conflicts
 antigen bundles <<-Bundles
@@ -37,7 +37,6 @@ antigen bundles <<-Bundles
     z
     git
     sublime
-    sharat87/zsh-vim-mode
     history-substring-search
     zsh-users/zsh-syntax-highlighting
     # tarruda/zsh-autosuggestions          # must be bundled last
