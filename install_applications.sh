@@ -8,10 +8,18 @@ clear
 # install xcode CLI tools
 xcode-select --install
 
+# Get all cask versions and update homebrew
+brew tap caskroom/versions
+brew update
+
 # install cli tools
 brew install zsh
 brew install antigen
 brew install tree
+brew install adoptopenjdk8
+brew install mvn
+brew install scala
+brew install sbt
 
 # install apps
 brew cask install iterm2
