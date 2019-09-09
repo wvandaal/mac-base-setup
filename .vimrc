@@ -50,7 +50,6 @@ set expandtab
 "   Splitting Options   "
 """""""""""""""""""""""""
 set winheight=30
-set winminheight=5
 
 " map + and - to pane resizing
 nnoremap <silent> + :exe "resize " . (winheight(0) * 3/2)<CR>
