@@ -17,7 +17,7 @@ brew install zsh
 brew install antigen
 brew install tree
 brew install adoptopenjdk8
-brew install mvn
+brew install maven
 brew install scala
 brew install sbt
 
