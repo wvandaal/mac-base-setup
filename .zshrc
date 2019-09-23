@@ -49,6 +49,13 @@ Bundles
 # Git shortcuts
 alias ggp="ggpull"
 alias gyb="git rev-parse --abbrev-ref HEAD | pbcopy"
+function gfb {
+  git branch -a | 
+    grep $1 | 
+    awk '{print $1}' | 
+    sed 's/remotes\/origin\///' | 
+    xargs -n1 git checkout
+}
 
 # vim shortcuts
 alias vi="vim"
