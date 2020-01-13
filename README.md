@@ -28,6 +28,7 @@ As well as the following CLI tools, dev dependencies, and build tools
 - Java 8
 - Scala
 - Sbt
+- RabbitMQ
 
 ## Step 2a: Set Up Preferences with Mackup
 Assuming you have Mackup up and running on a cloud storage drive (OneDrive for Northwestern Mutual), simply create a `.mackup.cfg` file in your `~/` directory and point it to the corresponding drive in your file system:
