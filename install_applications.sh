@@ -20,6 +20,7 @@ brew install adoptopenjdk8
 brew install maven
 brew install scala
 brew install sbt
+brew install rabbitmq
 
 # install apps
 brew cask install iterm2
