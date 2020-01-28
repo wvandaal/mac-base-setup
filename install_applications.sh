@@ -17,6 +17,7 @@ brew install zsh
 brew install antigen
 brew install tree
 brew install adoptopenjdk8
+brew install jenv
 brew install maven
 brew install scala
 brew install sbt
@@ -31,6 +32,7 @@ brew cask install intellij-idea-ce
 brew cask install spotify
 brew cask install sizeup
 brew cask install postman
+brew cask install java
 
 # clear the homebrew cache of unused formulae
 brew cleanup -s
