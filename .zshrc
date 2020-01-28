@@ -21,6 +21,10 @@ export KEYTIMEOUT=1
 # export basic env settings
 export EDITOR TZ LANG
 
+# Initialize JEnv
+export PATH="$HOME/.jenv/bin:$PATH"
+eval "$(jenv init -)"
+
 
 ################    Bundles     ################
 
