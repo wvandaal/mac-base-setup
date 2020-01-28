@@ -22,6 +22,7 @@ brew install maven
 brew install scala
 brew install sbt
 brew install rabbitmq
+brew install leiningen
 
 # install apps
 brew cask install iterm2
