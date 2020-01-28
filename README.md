@@ -26,6 +26,9 @@ As well as the following CLI tools, dev dependencies, and build tools
   - Antigen plugin manager
 - Maven
 - Java 8
+- Java (latest)
+- JEnv
+- Leiningen
 - Scala
 - Sbt
 - RabbitMQ
