@@ -23,6 +23,7 @@ brew install scala
 brew install sbt
 brew install rabbitmq
 brew install leiningen
+brew install npm
 
 # install apps
 brew cask install iterm2
