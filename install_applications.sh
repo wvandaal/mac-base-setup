@@ -26,15 +26,16 @@ brew install leiningen
 brew install npm
 
 # install apps
-brew cask install iterm2
-brew cask install slack
-brew cask install google-chrome
-brew cask install sublime-text
-brew cask install intellij-idea-ce
-brew cask install spotify
-brew cask install sizeup
-brew cask install postman
-brew cask install java
+brew install --cask iterm2
+brew install --cask slack
+brew install --cask google-chrome
+brew install --cask sublime-text
+brew install --cask intellij-idea-ce
+brew install --cask spotify
+brew install --cask sizeup
+brew install --cask postman
+brew install --cask java
+brew install --cask docker
 
 # clear the homebrew cache of unused formulae
 brew cleanup -s
