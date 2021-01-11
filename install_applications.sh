@@ -15,6 +15,7 @@ brew update
 # install cli tools
 brew install zsh
 brew install antigen
+brew install ammonite-repl
 brew install tree
 brew install adoptopenjdk8
 brew install jenv
