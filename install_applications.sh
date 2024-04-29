@@ -9,7 +9,7 @@ clear
 xcode-select --install
 
 # Get all cask versions and update homebrew
-brew tap caskroom/versions
+brew tap homebrew/cask-versions
 brew update
 
 # install cli tools
